@@ -159,7 +159,7 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
   colorTwo = 'purple';
-
+}
 
 
 
@@ -233,4 +233,6 @@ if(age >= minAge) {
 }
 
 */
+
+
 
